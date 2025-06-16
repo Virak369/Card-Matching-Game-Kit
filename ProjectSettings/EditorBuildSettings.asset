@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Home.unity
+    guid: d74c322f40584ec4d852ac4d7be6b9ac
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_LevelSelect.unity
+    guid: 4e36aa3c481ce374ab2af5033e9502e9
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level1.unity
+    guid: b251fcc6a4034ec4a902288a72902592
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level2.unity
+    guid: 781c3b72a1020a64a9bbdfbe522f9b64
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level3.unity
+    guid: 524d2f033b3eee0469e71000a6267a58
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level4.unity
+    guid: cae0b7779eb9cee4f953121cf11d560b
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level5.unity
+    guid: 81bfe2ede20b366499b3ed8bd267bb1a
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level6.unity
+    guid: 60510e9428423e845ba686864cb9c65d
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level7.unity
+    guid: 502457c8a08ccb74eaa4c26880c25dc1
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level8.unity
+    guid: f30b3d72744442849a024f7065fe12d3
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level9.unity
+    guid: 31c7d9baaa40e814b85c784bebef4832
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level10.unity
+    guid: 0c4ac6a23d171ed4983e587e3d2a7b70
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level11.unity
+    guid: 1ae49a4bdb3790b428d68926840accc2
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level12.unity
+    guid: 42f511fec236fda47809b7c5079777ec
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level13.unity
+    guid: 6cddc5c56bd4af049b76b5f2165eafe7
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level14.unity
+    guid: d129acdb5f3a64244a9fb326a8ef0bad
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level15.unity
+    guid: 1430062e34c22fc4db257a1f1bd847ef
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level16.unity
+    guid: 4373a080ce6b33846af22524a1a95cb4
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level17.unity
+    guid: 3c171bd2fcd6db741a498c237b8a0612
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level18.unity
+    guid: 341d4b35379dfe0469a48db7e2761725
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level19.unity
+    guid: d489333393761534da7fd16a5f43076f
+  - enabled: 1
+    path: Assets/HisaCardMatching/Demo/The Full Demo/CDemo_Level20.unity
+    guid: 191ba61c28702d54296e00beec4a9214
+  m_configObjects: {}
