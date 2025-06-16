@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a81f4a042d4099c4fb9657600c36a0ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Demo/Demo Assets/Additional Scripts/LevelButton.cs
+  uploadId: 565278

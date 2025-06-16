@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c2e0e73c7ffc556459a1f70c203c23d4
+timeCreated: 1512843886
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Freehand
+  fontNames:
+  - Freehand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Assets/Font/Freehand.ttf
+  uploadId: 565278

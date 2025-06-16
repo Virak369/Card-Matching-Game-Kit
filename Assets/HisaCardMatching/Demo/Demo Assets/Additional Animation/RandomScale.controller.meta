@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 974fbbbf3c84be743a0d620771e98a2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Demo/Demo Assets/Additional Animation/RandomScale.controller
+  uploadId: 565278

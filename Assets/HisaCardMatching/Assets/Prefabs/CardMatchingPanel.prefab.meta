@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 289f8dd44fa30d1418416a0f921c3831
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Assets/Prefabs/CardMatchingPanel.prefab
+  uploadId: 565278

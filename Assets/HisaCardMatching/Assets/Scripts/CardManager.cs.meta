@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a87fdf83728fecd4eba31db8150c4671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Assets/Scripts/CardManager.cs
+  uploadId: 565278

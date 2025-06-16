@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2cd43cedbbc2c44c9951fc9fbf8e5c4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Documentation/README.txt
+  uploadId: 565278

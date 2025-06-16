@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd342400106adfa48ac4adc988d42dad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Assets/Animation/OpenSleeve.anim
+  uploadId: 565278

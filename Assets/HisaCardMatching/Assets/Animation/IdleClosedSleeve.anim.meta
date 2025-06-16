@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd19578955abe1641bcf77feba30d659
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Assets/Animation/IdleClosedSleeve.anim
+  uploadId: 565278

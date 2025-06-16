@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b76ee61fa94aa7348bac8d41caa02f68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195463
+  packageName: Card Matching - Game Kit
+  packageVersion: 1.1
+  assetPath: Assets/HisaCardMatching/Demo/Demo Assets/Additional Animation/BackwardRotatingCircle.controller
+  uploadId: 565278
